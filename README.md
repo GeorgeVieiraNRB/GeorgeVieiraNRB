@@ -1,7 +1,7 @@
 <h1 align="center">👋 Oi, eu sou o George Vieira</h1>
 
 <p align="center">
-  Atualmente atuo na Connectoway, contribuindo no desenvolvimento, suporte e manutenção do
+  Atuo na Connectoway, contribuindo no desenvolvimento, suporte e manutenção do
   <a href="https://sac.connectoway.com.br" target="_blank" rel="noopener noreferrer">
     Portal do Cliente
   </a> e de Sistemas Internos.
