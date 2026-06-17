@@ -1,10 +1,10 @@
-<h1 align="center">👋 Oi, eu sou o George Vieira</h1>
+<h1 align="center"> E ai, sou o George Vieira</h1>
 
 <p align="center">
   Atuo na Connectoway, contribuindo no desenvolvimento, suporte e manutenção do
   <a href="https://sac.connectoway.com.br" target="_blank" rel="noopener noreferrer">
     Portal do Cliente
-  </a> e de Sistemas Internos.
+  </a>, de Integrações e de Sistemas Internos.
 </p>
 
 <div align="center">
@@ -61,7 +61,7 @@
 
 <p align="center">
   💻 Desenvolvimento e manutenção de aplicações web (SPA) com React e TypeScript<br>
-  🔗 Integração de sistemas via APIs REST, CRMs e ERPs<br>
+  🔗 Integração de sistemas via APIs REST para CRMs e ERPs<br>
   🧩 Atuação no ciclo completo de software: requisitos, desenvolvimento, testes, deploy e correção de bugs<br>
   📊 Criação de relatórios com SQL e automações com Python para apoio à tomada de decisão
 </p>
