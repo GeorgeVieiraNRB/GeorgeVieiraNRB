@@ -60,10 +60,10 @@
 <h2 align="center">💡 Sobre mim</h2>
 
 <p align="center">
-  💻 Desenvolvimento e manutenção de aplicações web (SPA) com React e TypeScript<br>
+  💻 Desenvolvimento e manutenção de aplicações web (SPA) com React<br>
   🔗 Integração de sistemas via APIs REST para CRMs e ERPs<br>
-  🧩 Atuação no ciclo completo de software: requisitos, desenvolvimento, testes, deploy e correção de bugs<br>
-  📊 Criação de relatórios com SQL e automações com Python para apoio à tomada de decisão
+  🧩 Atuação no ciclo completo de software: requisitos, desenvolvimento, testes, deploy e correção de erros<br>
+  📊 Criação de relatórios com SQL
 </p>
 
 ---
